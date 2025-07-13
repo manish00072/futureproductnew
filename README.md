@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Manish  i am  working or  my  main project ots first websote thay  provide  all  this thing   provide automated template this website provide a selling your contant
 
 
-🚀 Full Stack Developer | 🧠 AI Automation Expert | 🛍️ Django Store Systems
+🚀 Full Stack Developer | 🧠 AI Automation Expert | 🛍️ Django Store Systems | first template  with AI  based store  \agency
 
 - 🔭 I’m currently working on AI-powered eCommerce Automation
 - 🌱 Learning Django, OpenAI API, and Telegram Bots
