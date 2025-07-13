@@ -37,7 +37,7 @@
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/your-username/store-automation.git
+git clone https://github.com/your-manish00072/store-automation.git
 cd store-automation
 pip install -r requirements.txt
 python manage.py runserver
@@ -49,7 +49,7 @@ python manage.py runserver
 ---
 
 ### 🔷 5. **Pinned Projects on Profile**
-- Go to: `github.com/your-manish0007`
+- Go to: `github.com/your-manish00072`
 - Click "Customize your pinned repositories"
 - Pin your best 6 repos (store, chatbot, template site, etc.)
 
